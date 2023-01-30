@@ -1,5 +1,5 @@
 ### Hello There!
-![Welcome](https://static.boredpanda.com/blog/wp-content/uploads/2020/05/700-1.jpg)
+![Welcome](https://uwfvoyager.com/wp-content/uploads/2022/03/275190361_496656592098565_5048406593577103936_n-900x596.jpg)
 
 -  I’m currently working on learning how to program using Python and Java!
 -  I’m currently learning how to create a portfolio and a website.
