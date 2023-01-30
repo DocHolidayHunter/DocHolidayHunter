@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello There!
+
+-  I’m currently working on learning how to program using Python and Java!
+-  I’m currently learning how to create a portfolio and a website.
+
+
 
 <!--
 **DocHolidayHunter/DocHolidayHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
