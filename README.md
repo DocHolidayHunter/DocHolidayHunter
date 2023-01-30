@@ -1,5 +1,5 @@
 ### Hello There!
-!(https://raw.githubusercontent.com/DocHolidayHunter/DocHolidayHunter/main/header.png)
+![Header](https://raw.githubusercontent.com/DocHolidayHunter/DocHolidayHunter/main/Header.png)
 
 -  I’m currently working on learning how to program using Python and Java!
 -  I’m currently learning how to create a portfolio and a website.
