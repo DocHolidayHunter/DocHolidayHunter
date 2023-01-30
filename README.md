@@ -1,5 +1,5 @@
 ### Hello There!
-(https://raw.githubusercontent.com/DocHolidayHunter/DocHolidayHunter/Header.png)
+![Welcome](https://static.boredpanda.com/blog/wp-content/uploads/2020/05/700-1.jpg)
 
 -  I’m currently working on learning how to program using Python and Java!
 -  I’m currently learning how to create a portfolio and a website.
