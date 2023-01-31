@@ -1,8 +1,8 @@
 ### Hello There!
 ![Welcome](https://uwfvoyager.com/wp-content/uploads/2022/03/275190361_496656592098565_5048406593577103936_n-900x596.jpg)
 
--  I’m currently working on learning how to program using Python and Java!
--  I’m currently learning how to create a portfolio and a website.
+-  I’m currently working on learning how to program using all the languages!
+-  I’m currently learning how to create a portfolio and a website using JavaScript.
 
 - Just a man who is wanting to try and figure out programming and have fun :)
 
