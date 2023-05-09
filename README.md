@@ -1,5 +1,5 @@
 ### Hello There!
-![Welcome](https://uwfvoyager.com/wp-content/uploads/2022/03/275190361_496656592098565_5048406593577103936_n-900x596.jpg)
+![Welcome]([https://uwfvoyager.com/wp-content/uploads/2022/03/275190361_496656592098565_5048406593577103936_n-900x596.jp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1cH77QTPeSIG05chfj4taQ&ust=1683697519786000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMj1tJbE5_4CFQAAAAAdAAAAABAE)g)
 
 -  I’m currently working on learning how to program using all the languages!
 -  I’m currently learning how to create a portfolio and a website using JavaScript.
